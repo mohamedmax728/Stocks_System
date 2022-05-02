@@ -1,0 +1,115 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<table>
+  <debt>
+    <id>21146</id>
+    <name>رفعت سمير عبد المجيد</name>
+    <date>1/2/2021</date>
+    <stat>سلفة مستديمة</stat>
+    <adebt>5000</adebt>
+    <hdebt>0</hdebt>
+    <sdebt>0</sdebt>
+    <gdebt>0</gdebt>
+    <worktax>0</worktax>
+    <pernumber>1331</pernumber>
+    <addnum>0</addnum>
+    <treanum>0</treanum>
+  </debt>
+  <debt>
+    <id>21146</id>
+    <name>رفعت سمير عبد المجيد</name>
+    <date>2/2/2021</date>
+    <stat>شراء ادوات كتابية</stat>
+    <adebt>0</adebt>
+    <hdebt>0</hdebt>
+    <sdebt>0</sdebt>
+    <gdebt>2262</gdebt>
+    <worktax>0</worktax>
+    <pernumber>0</pernumber>
+    <addnum>87654</addnum>
+    <treanum>0</treanum>
+  </debt>
+  <debt>
+    <id>21146</id>
+    <name>رفعت سمير عبد المجيد</name>
+    <date>3/2/2021</date>
+    <stat>عمل صيانة</stat>
+    <adebt>0</adebt>
+    <hdebt>0</hdebt>
+    <sdebt>2738</sdebt>
+    <gdebt>0</gdebt>
+    <worktax>0</worktax>
+    <pernumber>0</pernumber>
+    <addnum>0</addnum>
+    <treanum>324</treanum>
+  </debt>
+  <debt>
+    <id>21146</id>
+    <name>رفعت سمير عبد المجيد</name>
+    <date>4/2/2021</date>
+    <stat>سلفة مستديمة </stat>
+    <adebt>5000</adebt>
+    <hdebt>0</hdebt>
+    <sdebt>0</sdebt>
+    <gdebt>0</gdebt>
+    <worktax>0</worktax>
+    <pernumber>1332</pernumber>
+    <addnum>0</addnum>
+    <treanum>0</treanum>
+  </debt>
+  <debt>
+    <id>21146</id>
+    <name>رفعت سمير عبد المجيد</name>
+    <date>5/2/2021</date>
+    <stat>شراء ادوات كتابية</stat>
+    <adebt>0</adebt>
+    <hdebt>0</hdebt>
+    <sdebt>0</sdebt>
+    <gdebt>2262</gdebt>
+    <worktax>0</worktax>
+    <pernumber>0</pernumber>
+    <addnum>56774</addnum>
+    <treanum>0</treanum>
+  </debt>
+  <debt>
+    <id>21146</id>
+    <name>رفعت سمير عبد المجيد</name>
+    <date>5/2/2021</date>
+    <stat>عمل صيانة</stat>
+    <adebt>0</adebt>
+    <hdebt>0</hdebt>
+    <sdebt>2738</sdebt>
+    <gdebt>0</gdebt>
+    <worktax>0</worktax>
+    <pernumber>0</pernumber>
+    <addnum>31452</addnum>
+    <treanum>0</treanum>
+  </debt>
+  <debt>
+    <id>21146</id>
+    <name>رفعت سمير عبد المجيد</name>
+    <date>6/2/2021</date>
+    <stat>مجلس ادارة</stat>
+    <adebt>10300</adebt>
+    <hdebt>0</hdebt>
+    <sdebt>0</sdebt>
+    <gdebt>0</gdebt>
+    <worktax>0</worktax>
+    <pernumber>4352</pernumber>
+    <addnum>0</addnum>
+    <treanum>0</treanum>
+  </debt>
+  <debt>
+    <id>21146</id>
+    <name>رفعت سمير عبد المجيد</name>
+    <date>5/2/2021</date>
+    <stat>مرتب مجلس ادارة</stat>
+    <adebt>0</adebt>
+    <hdebt>8240</hdebt>
+    <sdebt>0</sdebt>
+    <gdebt>0</gdebt>
+    <worktax>2060</worktax>
+    <pernumber>0</pernumber>
+    <addnum>896643</addnum>
+    <treanum>0</treanum>
+  </debt>
+</table>
